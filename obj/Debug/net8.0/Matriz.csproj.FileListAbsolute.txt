@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/Matriz.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/Matriz.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/Matriz.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/Matriz.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Matriz/bin/Debug/net8.0/Matriz
+/home/et12alumno/Escritorio/Matriz/bin/Debug/net8.0/Matriz.deps.json
+/home/et12alumno/Escritorio/Matriz/bin/Debug/net8.0/Matriz.runtimeconfig.json
+/home/et12alumno/Escritorio/Matriz/bin/Debug/net8.0/Matriz.dll
+/home/et12alumno/Escritorio/Matriz/bin/Debug/net8.0/Matriz.pdb
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/Matriz.dll
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/refint/Matriz.dll
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/Matriz.pdb
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/Matriz.genruntimeconfig.cache
+/home/et12alumno/Escritorio/Matriz/obj/Debug/net8.0/ref/Matriz.dll
